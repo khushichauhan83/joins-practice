@@ -25,6 +25,15 @@ Once the tables were created, I inserted sample data into both tables , then i w
 3 . RIGHT JOIN
 4 . FULL JOIN
 
+You can find the output of all SQL join queries as screenshots inside the 'screenshots/' folder for better understanding and reference.
+
+
+
+
+
+
+
+
 
 
 
